@@ -1,4 +1,4 @@
-class Tax {
+class Product {
   #content;
   #tax ;
   constructor( content ) {
@@ -20,4 +20,4 @@ class Tax {
   }
 }
 
-module.exports = Tax;
+module.exports = Product;

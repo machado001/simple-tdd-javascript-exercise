@@ -1,4 +1,4 @@
-const Tax = require("../src/tax");
+const Tax = require("../src/product");
 
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
@@ -8,7 +8,7 @@ const mocks = {
   isNational: require("./mocks/is-national"),
 };
 
-describe("Tax Suite", () => {
+describe("Product Suite", () => {
   it("should return true if this.international is true", () => {
     const mock = mocks.isInternational;
     const actual = new Tax(mock).isInternational();
