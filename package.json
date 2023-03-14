@@ -1,8 +1,8 @@
 {
-  "name": "cu",
+  "name": "tdd-with-oop-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "tax.js",
+  "main": "product.js",
   "scripts": {
     "test": "npx mocha -w tests/*.test.js "
   },
