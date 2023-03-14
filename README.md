@@ -17,4 +17,4 @@ feel free to write your tests based on the specifications below,  before see my 
 
 # Contributing
 
-Feel free to write more tests based on src/Tax.js to improve this repository.
+Feel free to write more tests based on src/tax.js to improve this repository.
